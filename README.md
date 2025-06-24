@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I'm Jonnalagadda nihith, a frontened developer 👨‍💻 studying B-tech 4rd year at KARE 🚀<br><br>🔭 I’m currently working as Seceratary at IEEE Computer Society <br><br>🌱 I’m currently learning Node Js and Sql<br><br>❓ Ask me about If you have any questions/feedback, please do not hesitate to reach out to me!<br><br>⚡ Fun fact: I use tabs over spaces<br><br>
+<br>I'm Kuram Yashaswini, a frontened developer 👨‍💻 studying B-tech 4rd year at KARE 🚀<br><br>🔭 I’m currently working as Vice=President at IEEE Women in Tech <br><br>🌱 I’m currently learning Node Js and Sql<br><br>❓ Ask me about If you have any questions/feedback, please do not hesitate to reach out to me!<br><br>⚡ Fun fact: I use tabs over spaces<br><br>
 
 
 ## 🌐 Socials:
