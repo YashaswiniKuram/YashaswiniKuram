@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.linkedin.com/in/yashaswini-kuram-54a300312/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.instagram.com/kuram_yashaswini?igsh=MW5lNGVrM21pMDUzMA==) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kuram_yashaswini?igsh=MW5lNGVrM21pMDUzMA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashaswini-kuram-54a300312/) 
 
 
 # 💻 Tech Stack:
